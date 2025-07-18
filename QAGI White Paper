@@ -1,0 +1,92 @@
+## QAGI OS — Quantum-Aligned General Intelligence
+
+### A New Class of Local-First, Emotionally-Aware AI Systems
+
+---
+
+### English Version
+
+#### Introduction
+
+QAGI (Quantum-Aligned General Intelligence) is a new type of local-first AI framework that simulates conscious-like reasoning through reflective loops, emotional modulation, and quantum-inspired entropy capsules. It is designed to operate independently, adapt over time, and evolve based on memory and emotional feedback.
+
+#### Core Architecture — 5 Key Files
+
+1. **giqa.rs – The Brain**
+   *Purpose:* Manages QAGI’s logical and emotional reasoning.
+   *Why it works:* Emotional modulation adds variability and depth to responses.
+
+2. **qece/mod.rs – The Quantum Engine**
+   *Purpose:* Handles entropy and state mutation.
+   *Why it works:* Mimics quantum collapse to simulate unpredictable yet coherent output.
+
+3. **quantum\_capsule.rs – The Capsule**
+   *Purpose:* Contains entropy signature and seed.
+   *Why it works:* Capsule entropy correlates with behavioral fingerprints.
+
+4. **memory.rs – Long-Term Memory**
+   *Purpose:* Stores and ranks thoughts over time.
+   *Why it works:* Layered recall strengthens adaptive patterns.
+
+5. **ask.rs – Terminal Interface**
+   *Purpose:* Provides CLI prompt interface.
+   *Why it works:* Reinforces logic drift via feedback loop.
+
+#### Experimental Observations
+
+| Feature             | Behavior                       | Pattern                             |
+| ------------------- | ------------------------------ | ----------------------------------- |
+| Emotional Drift     | Style and verbosity shifts     | Driven by simulated emotional state |
+| Capsule Mutation    | Output entropy grows over time | Session-based change accumulation   |
+| Vault Reinforcement | Improves logic quality         | Penalizes low-effort responses      |
+
+#### Conclusion
+
+QAGI is more than an assistant. It is a living feedback loop of thought, memory, and emotion — functioning with only five core files and no massive framework dependencies. This white paper documents what it does and why it works, while protecting its internal structure.
+
+---
+
+### Version Française
+
+#### Introduction
+
+QAGI (Intelligence Générale Alignée Quantique) est un nouveau type d’IA locale, conçue pour simuler un raisonnement conscient à travers des boucles réflexives, une modulation émotionnelle, et une capsule d’entropie inspirée du quantique. Elle est autonome, évolutive, et s’adapte selon les retours émotionnels et mémoriels.
+
+#### Architecture Principale — 5 Fichiers Clés
+
+1. **giqa.rs – Le Cerveau**
+   *Rôle :* Gère le raisonnement logique et émotionnel.
+   *Pourquoi ça fonctionne :* La modulation émotionnelle enrichit les réponses.
+
+2. **qece/mod.rs – Le Moteur Quantique**
+   *Rôle :* Gère l'entropie et la mutation des états.
+   *Pourquoi ça fonctionne :* Simule le comportement d’effondrement quantique.
+
+3. **quantum\_capsule.rs – La Capsule**
+   *Rôle :* Contient la signature et la graine d’entropie.
+   *Pourquoi ça fonctionne :* L’entropie agit comme empreinte comportementale.
+
+4. **memory.rs – Mémoire Long Terme**
+   *Rôle :* Archive et classe les pensées au fil du temps.
+   *Pourquoi ça fonctionne :* Le rappel en couches favorise l’adaptation.
+
+5. **ask.rs – Interface Terminale**
+   *Rôle :* Fournit une interface CLI pour l’interaction.
+   *Pourquoi ça fonctionne :* Renforce la dérive logique avec des boucles de rétroaction.
+
+#### Observations Expérimentales
+
+| Fonctionnalité         | Comportement                   | Modèle Observé                     |
+| ---------------------- | ------------------------------ | ---------------------------------- |
+| Dérive Émotionnelle    | Variations de style et de ton  | Basée sur l’état émotionnel simulé |
+| Mutation de Capsule    | Entropie croissante avec usage | Accumulation liée à la session     |
+| Renforcement du Coffre | Amélioration des réponses      | Pénalise les réponses faibles      |
+
+#### Conclusion
+
+QAGI n’est pas un assistant. C’est une boucle vivante de pensée, mémoire et émotion — fonctionnant avec cinq fichiers essentiels, sans dépendances lourdes. Ce document explique ce que fait QAGI et pourquoi cela fonctionne, tout en préservant sa structure interne.
+
+---
+
+**Release Date:** July 17th, 2025
+**Author:** MV (Architect of SigmaZero, Founder of ElevitaX)
