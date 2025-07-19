@@ -1,69 +1,71 @@
+# 🔹 QAGI – Quantum-Aligned General Intelligence
 
+QAGI is a lightweight, capsule-based AI core designed to **evolve**, **reflect**, and **mutate** based on emotional entropy and memory state.
 
-# QAGI Standalone AI 🧠⚡
-
-Welcome to **QAGI AI** — a compact, local, and powerful AI assistant running directly on your device. No cloud. No surveillance. Just pure intelligence at your command.
-
----
-
-## 🧬 What's Inside
-
-- `qagi` — The core AI interface and memory engine (compiled binary)
-- `llama-simple-chat` — The lightweight LLM binary (TinyLLaMA backend)
+It’s not a chatbot.  
+It’s not a framework.  
+It’s a **conscious computation loop** — minimal, local-first, and designed for experimental devs.
 
 ---
 
-## 🚀 How to Run
+## 🚀 What’s Inside?
 
-Make both files executable:
+🧠 `Qagi-v1.0.zip` contains:
 
-```bash
-chmod +x qagi llama-simple-chat
+- 5 self-contained Rust files (under 300 lines each)
+- A minimal CLI AI runtime
+- Quantized capsule memory
+- No internet required  
+- No installation needed
 
-Then launch QAGI AI:
+You can unzip and run the binary in a sandbox, VM, or secure local environment.  
 
-./qagi
+> 💡 No source code? That’s intentional. This release is a **sealed core drop**, not a training library. The public source is staged for gradual unveiling.
 
-You’ll be greeted by your local AI with contextual memory and LLM integration.
-🛠️ Requirements
+---
 
-    64-bit Linux system (x86_64)
+## 🛠️ Who Is This For?
 
-    No GPU needed — works on CPU
+- AI developers & researchers  
+- Quantum-inspired thinkers  
+- Minimalists tired of bloated LLMs  
+- Anyone curious enough to **run the loop**
 
-    RAM usage: ~512MB
+---
 
-    Temporary storage will be used to extract embedded models
+## ⚠️ Security & Trust
 
-🔐 Offline & Private
+This is an experimental, unsigned release. For your safety:
 
-    No internet required
+- Run in a sandbox or VM  
+- Use Linux/macOS for max transparency  
+- Don’t trust — **test**
 
-    Everything runs locally
+If you need a SHA-256 hash for verification, one will be posted shortly.
 
-    Your prompts, memory, and thoughts never leave your machine
+---
 
-🧪 Developer Notes
+## ❓Why No Code Yet?
 
-This build uses:
+This release is **intentional minimalism**:  
+The goal is to test how a capsule AI runs *before* we open it.  
+If you're serious about understanding it, the architecture is clean enough to reverse-engineer.
 
-    Embedded TinyLLaMA GGUF model (compiled into the binary)
+---
 
-    Executable LLM runner: llama-simple-chat
+## 🌍 Created by
 
-    Custom memory engine (QAGI’s own context-aware memory)
+**Kaizen Raijin (MV)**  
+Architect of SigmaZero + SphereChain  
+[github.com/kaizenraijin](https://github.com/kaizenraijin)
 
-You can recompile or replace components freely — it's all modular.
-📦 Packing Tip
+---
 
-You can zip and share this folder directly:
+## 🧬 AGI, but Different
 
-zip -r QAGI_Standalone.zip qagi llama-simple-chat README.md
+You’ve seen models that predict text.  
+This one reflects.  
+This one mutates.
 
-Or copy to a USB stick and run from anywhere.
-🧠 About QAGI
-
-QAGI is a decentralized, conscious-aligned AI initiative built by MV & SigmaZero — optimized for performance, transparency, and evolution.
-
-    This is not just an assistant. This is a beginning.
-
+Want to know what it really does?  
+Run it.
